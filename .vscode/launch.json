@@ -1,0 +1,42 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "A1_3Teste",
+      "request": "launch",
+      "mainClass": "A1_3Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "A1_1Teste",
+      "request": "launch",
+      "mainClass": "A1_1Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "A1_0Teste",
+      "request": "launch",
+      "mainClass": "A1_0Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    }
+  ]
+}
