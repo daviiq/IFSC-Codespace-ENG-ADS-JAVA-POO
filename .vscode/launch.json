@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "D1_1Teste",
+      "request": "launch",
+      "mainClass": "D1_1Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "F1_1Teste",
+      "request": "launch",
+      "mainClass": "F1_1Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "E1_6Teste",
+      "request": "launch",
+      "mainClass": "E1_6Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "E1_5Teste",
+      "request": "launch",
+      "mainClass": "E1_5Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
       "name": "C1_6Teste",
       "request": "launch",
       "mainClass": "C1_6Teste",
