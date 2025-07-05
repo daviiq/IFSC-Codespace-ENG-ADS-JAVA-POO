@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "F1_5Teste",
+      "request": "launch",
+      "mainClass": "F1_5Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
+      "name": "D1_41Teste",
+      "request": "launch",
+      "mainClass": "D1_41Teste",
+      "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+    },
+    {
+      "type": "java",
       "name": "C1_8Teste",
       "request": "launch",
       "mainClass": "C1_8Teste",
